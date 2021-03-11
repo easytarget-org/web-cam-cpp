@@ -1,6 +1,6 @@
 {
   "name": "web-cam-cpp",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "CAM functions compiled from C++ to JavaScript",
   "main": "web-cam-cpp.js",
   "scripts": {
